@@ -43,3 +43,4 @@
             * hashmap problem
     - Behavioral:
         * why bloomberg, every line on resume, recent projects, successes
+        * [PREP](https://docs.google.com/document/d/1s3Z4BEtSlXJkGaiz2gHOfMORRP7bVY7GpUfPODayJFI/edit)
