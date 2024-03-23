@@ -14,7 +14,7 @@
             * dfs search on BST w/ no limit of leaves for each level
             * build stock class where you get last stock added to portfolio
             * word search (medium)
-            * top 100 lc questions
+            * [top 100 lc questions](https://leetcode.com/discuss/interview-question/4258631/Top-100-DSA-Interview-Questions)
             * create ds for subway system tracking system
             * ll with random pointers
             * implement ll from scratch, determine if ll is circular
