@@ -26,28 +26,21 @@ def countingValleys(steps: int, path: str) -> int:
         return valleys
     while r < steps:
         level += conversion[path[r]]
-        if path[r] == "D" and level == 0:
+        if path[r] == "D" and not level:
             l = r
-        if path[r] != path[l] and level == 0:
-            print(l, r)
+        if path[r] != path[l] and not level:
             valleys += 1
             l = r + 1
         r += 1
     l = r
     return valleys
 
-    #     print(path[r])
-    #     if path[l] == "D" and level < 0:
-    #         r += 1
-    #         if path[r] == "U":
-    #             valleys += 1
-    #     l += 1
-    # l = r
-
 
 print(countingValleys(8, "UDDDUDUU"))
 print(countingValleys(8, "DDUUUUDD"))
 print(countingValleys(12, "DDUUDDUDUUUD"))
+print(countingValleys(2, "UD"))
+print(countingValleys(2, "DU"))
 
 # to determine if in valley then (1) travel below sea level -> (2) to sea level.
 # while seaLevel !== 0, -1 -> 0
