@@ -5,24 +5,26 @@ __PAIN__
     - [Cushman+Wakefield](./Cushman_Wakefield/)
 
 - Progress (doing at least 2 from each section)
+    - [ ] must practice dfs, bfs of trees, graphs
     * Arrays
-        - Q1 [x]
-        - Q2 [x]
+        - Q1 [x] easy - 2D []
+        - Q2 [x] easy - LR
     * Dicts + HashMaps
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [ ] easy - hash tables: ransom notice
+        - Q2 [ ] easy - two strings
+        - Q3 [ ] medium - sherlock and anagrams
     * Sorting
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [ ] bubble sort
+        - Q2 [ ] mark and toys
     * String Manipulation
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [ ] making anagrams
+        - Q2 [ ] alt chars
     * Greedy Algos
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [ ] min abs difference in array
+        - Q2 [ ] luck balance
     * Search
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [ ] hash tables - ice cream
+        - Q2 [ ] swap nodes
     * Dynamic Programming
         - Q1 [ ]
         - Q2 [ ]
