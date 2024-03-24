@@ -1,11 +1,13 @@
 # Bloomberg Interview Research
 - Know Before You Go
 - (Discussion)[https://leetcode.com/discuss/interview-question/329221/Bloomberg-or-Phone-screen-or-Software-Development-Internship-2019]
+    * Interview KickStart - [Bloomberg SWE Interview](https://www.interviewkickstart.com/interview-questions/bloomberg-software-engineer-interview-questions)
     * Algos: Search, sort, traverse
     * Problem solving techniques: 2 points, recognize [first in, first out] ops, combining several data structures
 - Asked questions:
     - Technical
         - Specific Questions:
+            * [Design LeaderBoard](https://leetcode.ca/all/1244.html)
             * BFS Graph Traversal, Binary Tree Backtracking, Hashing
             * min stack problem (2)
             * [LC High Frequency](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)

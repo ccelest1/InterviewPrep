@@ -1,12 +1,13 @@
 __PAIN__
-- [BloombergLP](./Bloomberg/)
-- [MDB](./MongoDB/)
-- [Cushman+Wakefield](./Cushman_Wakefield/)
+* [company specific problems](https://github.com/pratikn0708/leetcode-company-wise-questions/blob/master/Bloomberg%20-%20LeetCode.pdf)
+    - [BloombergLP](./Bloomberg/)
+    - [MDB](./MongoDB/)
+    - [Cushman+Wakefield](./Cushman_Wakefield/)
 
 - Progress (doing at least 2 from each section)
     * Arrays
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [x]
+        - Q2 [x]
     * Dicts + HashMaps
         - Q1 [ ]
         - Q2 [ ]
