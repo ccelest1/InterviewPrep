@@ -10,24 +10,18 @@ __PAIN__
         - Q1 [x] easy - 2D []
         - Q2 [x] easy - LR
     * Dicts + HashMaps
-        - Q1 [ ] easy - hash tables: ransom notice
-        - Q2 [ ] easy - two strings
+        - Q1 [x] easy - hash tables: ransom notice
+        - Q2 [x] easy - two strings
         - Q3 [ ] medium - sherlock and anagrams
     * Sorting
-        - Q1 [ ] bubble sort
-        - Q2 [ ] mark and toys
+        - Q1 [x] bubble sort
+        - Q2 [x] mark and toys
     * String Manipulation
         - Q1 [ ] making anagrams
         - Q2 [ ] alt chars
-    * Greedy Algos
-        - Q1 [ ] min abs difference in array
-        - Q2 [ ] luck balance
     * Search
         - Q1 [ ] hash tables - ice cream
         - Q2 [ ] swap nodes
-    * Dynamic Programming
-        - Q1 [ ]
-        - Q2 [ ]
     * Stacks and Queues
         - Q1 [ ]
         - Q2 [ ]
@@ -40,6 +34,12 @@ __PAIN__
     * LLs
         - Q1 [ ]
         - Q2 [ ]
+    * Greedy Algos
+        - Q1 [ ] min abs difference in array
+        - Q2 [ ] luck balance
     * Recursion and Backtracking
+        - Q1 [ ]
+        - Q2 [ ]
+    * Dynamic Programming
         - Q1 [ ]
         - Q2 [ ]
