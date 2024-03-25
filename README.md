@@ -17,8 +17,9 @@ __PAIN__
         - Q1 [x] bubble sort
         - Q2 [x] mark and toys
     * String Manipulation
-        - Q1 [ ] making anagrams
-        - Q2 [ ] alt chars
+        - Q1 [x] making anagrams
+        - Q2 [x] alt chars
+        - Q3 [ ] sherlock, valid string
     * Search
         - Q1 [ ] hash tables - ice cream
         - Q2 [ ] swap nodes
