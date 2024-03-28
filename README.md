@@ -19,22 +19,24 @@ __PAIN__
     * String Manipulation
         - Q1 [x] making anagrams
         - Q2 [x] alt chars
-        - Q3 [ ] sherlock, valid string
+        - Q3 [x] sherlock, valid string
     * Search
-        - Q1 [ ] hash tables - ice cream
-        - Q2 [ ] swap nodes
+        - Q1 [x] hash tables - ice cream
+        - Q2 [x] swap nodes
     * Stacks and Queues
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [x] BBs
+        - Q2 [ ] Queues - tale of 2 socks
+        - Q3 [ ] largest rect
     * Graphs
-        - Q1 [ ]
-        - Q2 [ ]
+    '   - Q1 [ ] roads and libs
+        - Q2 [ ] bfs - shortest reach in graph
+        - Q3 [ ] dfs - connected cell in grid
     * Trees
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [ ] Height of Binary Tree
+        - Q2 [ ] BST: LCA
     * LLs
-        - Q1 [ ]
-        - Q2 [ ]
+        - Q1 [ ] Insert node @ specific position in LL
+        - Q2 [ ] Insert Node into sorted double LL
     * Greedy Algos
         - Q1 [ ] min abs difference in array
         - Q2 [ ] luck balance
