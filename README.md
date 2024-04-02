@@ -22,7 +22,8 @@ __PAIN__
         - Q3 [x] sherlock, valid string
     * Search
         - Q1 [x] hash tables - ice cream
-        - Q2 [x] swap nodes
+        - Q2 [ ] swap nodes
+        - Q3 [ ] pairs
     * Stacks and Queues
         - Q1 [x] BBs
         - Q2 [ ] Queues - tale of 2 socks

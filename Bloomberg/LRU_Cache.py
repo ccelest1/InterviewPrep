@@ -8,7 +8,7 @@ Must run in O(1) avg capacity
 """
 
 
-class LRUCache:
+class LRUCachev1:
     def __init__(self, capacity: int):
         self.cap = capacity
         self.store = []
