@@ -49,14 +49,23 @@
 
             # recursive helper
             def solve(max_accum, nums, i):
+                # base cases
                 if i == 0:
                         return nums[0]
                 if i == 1:
                     return max(nums[0], nums[1])
+
+                # if we have performed precomputation
                 if i in max_accum:
                     return max_accum[i]
+
+                # rob scenario, we aggregate amounts of current (i) and 2 previous (i-2) amount
                 take = solve(max_accum, nums, i-2) + nums[i]
+
+                # not rob scenario, we are only able to take amount of previous
                 notTake = solve(max_accum, nums, i-1)
+
+                # max amount will of course be a result of first choice of house we decide to rob
                 max_accum[i] = max(take, notTake)
                 return max_accum[i]
 
